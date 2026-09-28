@@ -31,6 +31,7 @@ improving my programming and problem-solving skills.
 - Database Management Systems
 - REST API Development
 - Software Engineering
+- Machine Learning
 
 ---
 
