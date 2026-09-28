@@ -57,7 +57,7 @@ improving my programming and problem-solving skills.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Indranil Chatterjee](www.linkedin.com/in/indranil-chatterjee-594752301)
+- LinkedIn: www.linkedin.com/in/indranil-chatterjee-594752301
 - Email: chatterjeeindranil06@gmail.com
 
 ---
